@@ -11,7 +11,7 @@ I am eager to launch my career and make a positive impact in IT field.
 
 ## Knows / Experience
 
-### 🕸️ Web/App Dev
+### 🕸️ Web-Dev
 
 - Web Development: HTML,CSS,Bootstrap,JavaScript.
 - Database: MySQL.
@@ -26,7 +26,7 @@ I am eager to launch my career and make a positive impact in IT field.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sidhthecoder/">
-Website
+LinkedIn
 </a>
 <a href="https://leetcode.com/sidthecoder/" target="blank">Leetcode</a>
 
