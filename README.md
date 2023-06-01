@@ -17,7 +17,7 @@ I am eager to launch my career and make a positive impact in IT field.
 - Database: MySQL.
 - Programming Language: Java, Javascript.
 
-<div><img align="center" src="https://sidhthecoder-6luj8kpfi-sidhthecoder.vercel.app/" alt="sidhthecoder" />&nbsp;&nbsp;<img align="center"" src="https://github-readme-stats.vercel.app/api?username=sidhthecoder&show_icons=true&locale=en" alt="sidhthecoder" /></div>
+<!-- <div><img align="center" src="https://sidhthecoder-6luj8kpfi-sidhthecoder.vercel.app/" alt="sidhthecoder" />&nbsp;&nbsp;<img align="center"" src="https://github-readme-stats.vercel.app/api?username=sidhthecoder&show_icons=true&locale=en" alt="sidhthecoder" /></div> -->
 <br/>
 <div></div>
 <br/>
